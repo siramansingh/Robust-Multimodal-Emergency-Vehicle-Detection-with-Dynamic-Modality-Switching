@@ -311,7 +311,6 @@ Python · PyTorch · Ultralytics YOLOv8 · OpenCV · Librosa · scikit-learn · 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [UrbanSound8K](https://urbansounds.weebly.com/urbansound8k.html) — J. Salamon, C. Jacoby and J. P. Bello
 - Emergency Vehicles image dataset (`Emergency_Vehicles/`)
-- Original project by [@vicky123411](https://github.com/vicky123411/Dynamic-Modality-Switching-for-Robust-Emergency-Vehicle-Detection), which this repository builds on
 
 ---
 
