@@ -167,8 +167,8 @@ Vision detection quality: **mAP@0.5 = 0.995**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vicky123411/Dynamic-Modality-Switching-for-Robust-Emergency-Vehicle-Detection.git
-cd Dynamic-Modality-Switching-for-Robust-Emergency-Vehicle-Detection
+git clone https://github.com/siramansingh/Robust-Multimodal-Emergency-Vehicle-Detection-with-Dynamic-Modality-Switching.git
+cd Robust-Multimodal-Emergency-Vehicle-Detection-with-Dynamic-Modality-Switching
 ```
 
 ### 2. Create an environment and install dependencies
@@ -311,11 +311,12 @@ Python · PyTorch · Ultralytics YOLOv8 · OpenCV · Librosa · scikit-learn · 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [UrbanSound8K](https://urbansounds.weebly.com/urbansound8k.html) — J. Salamon, C. Jacoby and J. P. Bello
 - Emergency Vehicles image dataset (`Emergency_Vehicles/`)
+- Original project by [@vicky123411](https://github.com/vicky123411/Dynamic-Modality-Switching-for-Robust-Emergency-Vehicle-Detection), which this repository builds on
 
 ---
 
 ## 👨‍💻 Author
 
-**Vikash** — [@vicky123411](https://github.com/vicky123411)
+**siramansingh** — [@siramansingh](https://github.com/siramansingh)
 
 If you find this project useful, please consider giving it a ⭐!
